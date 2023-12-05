@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 
+cover-img: "/images/old_stock_market_noir_tonal_tonal_crop.jpg"
 ---
 
 ## Published articles
