@@ -4,16 +4,7 @@ title:
 cover-img: "/images/wall_st_lund_crop_noir_tonal_tonal.jpg"
 ---
 
-
-| EMAIL | raphael.cunha@kcl.ac.uk <tr></tr> |
-| BLUESKY | @raphaelcunha.bsky.social <tr></tr> |
-| MAIL | Department of Political Economy <tr></tr> |
-|  | King's College London <tr></tr> |
-|  | Bush House (North East Wing) <tr></tr> |
-|  | 30 Aldwych <tr></tr> |
-
-<strong>EMAIL</strong>
-raphael.cunha@kcl.ac.uk
+<span style="font-family: Lora">EMAIL</span> raphael.cunha@kcl.ac.uk
 
 <strong>BLUESKY</strong>
 @raphaelcunha.bsky.social
