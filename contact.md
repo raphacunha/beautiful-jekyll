@@ -1,3 +1,8 @@
+---
+layout: page
+title: Contact
+---
+
 <s><strong>EMAIL</strong></s>
 raphael.cunha@kcl.ac.uk
 
