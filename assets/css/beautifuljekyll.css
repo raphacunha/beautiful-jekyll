@@ -74,6 +74,9 @@ hr.small {
   border-color: inherit;
   border-radius: 0.1875rem;
 }
+strong {
+  font-weight: 600;  
+}
 
 /* fix in-page anchors to not be behind fixed header */
 :target:before {
