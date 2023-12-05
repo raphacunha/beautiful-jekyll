@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title:
 ---
 
 <s><strong>EMAIL</strong></s>
