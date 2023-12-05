@@ -4,7 +4,7 @@ title:
 cover-img: "/images/old_stock_market_noir_tonal_tonal_crop.jpg"
 ---
 
-## Published articles
+### Published articles
 ***
 
 __<a href="https://doi.org/10.31235/osf.io/upevz" target="_blank">Democracy and Markets in a Partially Globalized World: Local and Global Financial Market Responses to Elections in Developing Countries</a>__. _International Studies Quarterly_. Forthcoming.<br>
@@ -39,7 +39,7 @@ __<a href="https://www.kluwerlawonline.com/abstract.php?area=Journals&id=TRAD200
 
 <br>
 
-## Working papers
+### Working papers
 ***
 
 __When Volatility Begins at Home: Globalization, Elections, and Financial Market Volatility in Emerging Markets__ [ <a href="https://osf.io/preprints/socarxiv/pdsv6/" target="_blank">Preprint PDF</a> ]
