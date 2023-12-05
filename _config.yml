@@ -23,6 +23,7 @@ navbar-links:
   Home: "index"
   Research: "research"
   Contact: "contact"
+  CV (pdf): "/pdf/Cunha_CV.pdf"
   #About Me: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
