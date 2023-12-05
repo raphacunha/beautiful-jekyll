@@ -196,11 +196,22 @@ img {
   padding-bottom: 0.9375rem;
 }
 
+.navbar-custom .navbar-nav .nav-link {
+  font-weight: 700;
+  color: {{ site.navbar-text-col | default: "#404040" }};
+}
+
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-nav .nav-link {
   font-weight: 600;
   color: {{ site.navbar-text-col | default: "#404040" }};
 }
+
+/*.navbar-custom .navbar-brand,
+.navbar-custom .navbar-nav .nav-link {
+  font-weight: 600;
+  color: {{ site.navbar-text-col | default: "#404040" }};
+}*/
 
 .navbar-toggler {
   font-size: 1rem;
