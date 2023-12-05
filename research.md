@@ -42,12 +42,12 @@ __<a href="https://www.kluwerlawonline.com/abstract.php?area=Journals&id=TRAD200
 ### Working papers
 ***
 
-__When Volatility Begins at Home: Globalization, Elections, and Financial Market Volatility in Emerging Markets__ [ <a href="https://osf.io/preprints/socarxiv/pdsv6/" target="_blank">Preprint PDF</a> ]
+When Volatility Begins at Home: Globalization, Elections, and Financial Market Volatility in Emerging Markets [ <a href="https://osf.io/preprints/socarxiv/pdsv6/" target="_blank">Preprint PDF</a> ]
 
-__Financial Globalization and Corporate Political Contributions: Firm-Level Evidence from Brazil__ 
+Financial Globalization and Corporate Political Contributions: Firm-Level Evidence from Brazil
 
-__Financial Markets and Mass Political Attitudes: Evidence from the 2022 Brazilian Election__ (with <a href="https://polisci.osu.edu/people/brooks.317" target="_blank">Sarah Brooks</a> and <a href="https://laynamosley.scholar.princeton.edu/" target="_blank">Layna Mosley</a>) [ <a href="https://www.internationalpoliticaleconomysociety.org/sites/default/files/paper-uploads/2023-10-26-16_12_22-sydney.white@yale.edu.pdf" target="_blank">IPES 2023 Paper</a> ]
+Financial Markets and Mass Political Attitudes: Evidence from the 2022 Brazilian Election (with <a href="https://polisci.osu.edu/people/brooks.317" target="_blank">Sarah Brooks</a> and <a href="https://laynamosley.scholar.princeton.edu/" target="_blank">Layna Mosley</a>) [ <a href="https://www.internationalpoliticaleconomysociety.org/sites/default/files/paper-uploads/2023-10-26-16_12_22-sydney.white@yale.edu.pdf" target="_blank">IPES 2023 Paper</a> ]
 
-__Why Oppose Foreign Investment? Survey Experimental Evidence from India__ (with <a href="http://www.quintinbeazer.com/" target="_blank">Quintin Beazer</a>, <a href="https://www.danieljblake.com/" target="_blank">Daniel Blake</a>, and <a href="https://www.s-jandhyala.com/" target="_blank">Srividya Jandhyala</a>) [ <a href="https://www.internationalpoliticaleconomysociety.org/sites/default/files/paper-uploads/2023-10-26-09_51_08-raphaelcunha2@gmail.com.pdf" target="_blank">IPES 2023 Paper</a> ]
+Why Oppose Foreign Investment? Survey Experimental Evidence from India (with <a href="http://www.quintinbeazer.com/" target="_blank">Quintin Beazer</a>, <a href="https://www.danieljblake.com/" target="_blank">Daniel Blake</a>, and <a href="https://www.s-jandhyala.com/" target="_blank">Srividya Jandhyala</a>) [ <a href="https://www.internationalpoliticaleconomysociety.org/sites/default/files/paper-uploads/2023-10-26-09_51_08-raphaelcunha2@gmail.com.pdf" target="_blank">IPES 2023 Paper</a> ]
 
-__Landslide Elections and Stock Market Volatility: Why Markets Swing Even After Electoral Blowouts__ (with <a href="https://www.paulschuler.me/" target="_blank">Paul Schuler</a>)<br>
+Landslide Elections and Stock Market Volatility: Why Markets Swing Even After Electoral Blowouts (with <a href="https://www.paulschuler.me/" target="_blank">Paul Schuler</a>)<br>
