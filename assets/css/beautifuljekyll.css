@@ -54,7 +54,8 @@ h1, h2, h3, h4 {
   margin-top: 1.25rem;
 }
 a {
-  color: {{ site.link-col | default: "#008AFF" }};
+  /*color: {{ site.link-col | default: "#008AFF" }};*/
+  color: {{ site.link-col | default: "#f03f35" }};
 }
 a:hover,
 a:focus {
