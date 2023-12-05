@@ -42,11 +42,7 @@ __<a href="https://www.kluwerlawonline.com/abstract.php?area=Journals&id=TRAD200
 ### Working papers
 ***
 
-When Volatility Begins at Home: Globalization, Elections, and Financial Market Volatility in Emerging Markets [ <a href="https://osf.io/preprints/socarxiv/pdsv6/" target="_blank">Preprint PDF</a> ]<details>
-    <summary>Abstract</summary>
-<br />
-How do elections generate financial market volatility in emerging market countries? Existing scholarship disagrees over the relative importance of "push" (global) and "pull" (country-specific) factors in explaining volatility. This study moves beyond the binary debate between push and pull factors by examining how these factors interact in complex and dynamic ways. Local and global investors operate in different information environments when evaluating political risk. Local investors' information advantage leads to volatility contagion from domestic to international markets, as well as more volatile reactions to electoral uncertainty from foreign investors. I find support for these claims using price data for closed-end country funds and a series of multivariate time series models that capture dynamics of volatility transmission between local and global markets. The results underscore the importance of disaggregating investor behavior to understand how global capital markets react to emerging market politics.
-</details>
+When Volatility Begins at Home: Globalization, Elections, and Financial Market Volatility in Emerging Markets [ <a href="https://osf.io/preprints/socarxiv/pdsv6/" target="_blank">Preprint PDF</a> ]
 
 Financial Globalization and Corporate Political Contributions: Firm-Level Evidence from Brazil
 
