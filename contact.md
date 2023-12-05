@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-cover-img: "wall_st_lund_crop_noir_tonal_tonal.jpg"
+cover-img: "/images/wall_st_lund_crop_noir_tonal_tonal.jpg"
 ---
 
 <strong>EMAIL</strong>
