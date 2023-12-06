@@ -156,7 +156,8 @@ img {
   line-height: 1.5;
   padding-top: 0.625rem;
   padding-bottom: 0.625rem;
-  font-size: 1.125rem;
+  /* font-size: 1.125rem; */
+  font-size: 1.3rem;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -196,12 +197,12 @@ img {
   padding-bottom: 0.9375rem;
 }
 
-.navbar-custom .navbar-brand {
+.navbar-custom .navbar-brand { /* font weight of name title (top-left) */
   font-weight: 400;
   color: {{ site.navbar-text-col | default: "#404040" }};
 }
 
-.navbar-custom .navbar-nav .nav-link {
+.navbar-custom .navbar-nav .nav-link { /* font weight of menu items (top-right) */
   font-weight: 700;
   color: {{ site.navbar-text-col | default: "#404040" }};
 }
