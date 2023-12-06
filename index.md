@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: ""
 cover-img: "/images/bovespa_noir_tonal_tonal_crop.jpg"
 ---
 
