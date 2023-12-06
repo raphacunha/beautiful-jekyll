@@ -22,7 +22,7 @@ author: Raphael Cunha
 navbar-links:
   Home: "index"
   Research: "research"
-  Contact: "contact"
+  Teaching: "teaching"
   CV [pdf]: "/pdf/Cunha_CV.pdf"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
