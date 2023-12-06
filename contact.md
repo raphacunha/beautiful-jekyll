@@ -4,11 +4,12 @@ title:
 cover-img: "/images/wall_st_lund_crop_noir_tonal_tonal.jpg"
 ---
 
-<strong><span style="font-family: sans-serif">email</span></strong><br>
-raphael.cunha@kcl.ac.uk
+*** King's College London
 
-<strong><span style="font-family: sans-serif">bluesky</span></strong><br>
-@raphaelcunha.bsky.social
+**** Business and Politics (7SSPP056, Masters)
 
-<strong><span style="font-family: sans-serif">mail</span></strong><br>
-Department of Political Economy<br>King's College London<br>Bush House (North East Wing)<br>30 Aldwych<br>London WC2B 4BG<br>United Kingdom
+*** Florida State University
+
+**** Politics of International Financial Crises (INR 3933, Undergrad)
+**** Political Responses to Economic Globalization (INR 4011, Undergrad)
+**** International Political Economy (INR 5036, PhD)
