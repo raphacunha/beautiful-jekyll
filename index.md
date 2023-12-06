@@ -8,9 +8,6 @@ I am an Assistant Professor in the <a href="https://www.kcl.ac.uk/political-econ
 
 Previously, I was an Assistant Professor of Political Science at <a href="https://coss.fsu.edu/polisci/home" target="_blank">Florida State University</a> and a Postdoctoral Research Associate at the <a href="https://niehaus.princeton.edu/" target="_blank">Niehaus Center for Globalization and Governance</a> at  <a href="https://www.princeton.edu" target="_blank">Princeton University</a>. I received my Ph.D. from <a href="https://www.polisci.osu.edu" target="_blank">The Ohio State University</a>.
 
-You can view my <a href="../pdf/Cunha_CV.pdf" target="_blank">CV</a> here.
-<br>
-
 ---
 
 <a href="https://scholar.google.com/citations?user=X1SOZHcAAAAJ" target="_blank">Google Scholar</a> \| <a href="https://orcid.org/0000-0002-2415-3867" target="_blank">ORCID</a><br>
