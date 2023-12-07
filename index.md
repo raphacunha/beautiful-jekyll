@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ""
-cover-img: "/images/bovespa_noir_tonal_tonal_crop.jpg"
+cover-img: "/images/bovespa_noir_tonal_tonal_crop.jpg" : "Sao Paulo Stock Exchange"
 ---
 
 I am an Assistant Professor in the <a href="https://www.kcl.ac.uk/political-economy" target="_blank">Department of Political Economy</a> at <a href="https://www.kcl.ac.uk" target="_blank">King's College London</a>, where I am a member of the <a href="https://sites.google.com/view/kingsqpe/home" target="_blank">Quantitative Political Economy Research Group</a>. I am also affiliated with the <a href="https://www.kcl.ac.uk/kbi" target="_blank">King's Brazil Institute</a>. I study international and comparative political economy, with a focus on the politics of international finance and state-market relations in developing countries.
