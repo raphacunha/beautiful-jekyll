@@ -53,8 +53,8 @@ navbar-links:
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "raphael.cunha@kcl.ac.uk"
-  ORCID: 0000-0002-2415-3867
   google-scholar: X1SOZHcAAAAJ
+  ORCID: 0000-0002-2415-3867
   bluesky: raphaelcunha.bsky.social
   twitter: raphaccunha
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
