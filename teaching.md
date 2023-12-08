@@ -6,12 +6,12 @@ cover-img: "/images/wall_st_lund_crop_noir_tonal_tonal.jpg"
 
 #### King's College London
 
-Business and Politics (7SSPP056, MA)
+7SSPP056: Business and Politics (MA)
 
 #### Florida State University
 
-International Political Economy (INR 5036, PhD)
+INR 5036: International Political Economy (PhD)
 
-Politics of International Financial Crises (INR 3933, Undergrad)
+INR 3933: Politics of International Financial Crises (undergraduate)
 
-Political Responses to Economic Globalization (INR 4011, Undergrad)
+INR 4011: Political Responses to Economic Globalization (undergraduate)
