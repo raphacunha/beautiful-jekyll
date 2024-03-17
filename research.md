@@ -7,8 +7,8 @@ cover-img: "/images/old_stock_market_noir_tonal_tonal_crop.jpg"
 ### Published articles
 ***
 
-__<a href="https://doi.org/10.31235/osf.io/upevz" target="_blank">Democracy and Markets in a Partially Globalized World: Local and Global Financial Market Responses to Elections in Developing Countries</a>__. _International Studies Quarterly_. Forthcoming.<br>
-[ <a href="https://doi.org/10.31235/osf.io/upevz" target="_blank">Preprint PDF</a> \| <a href="https://osf.io/dzjqe" target="_blank">Data and Code</a> \| <a href="https://osf.io/yhe7v" target="_blank">Supplementary Information</a> ]
+__<a href="https://doi.org/10.1093/isq/sqae017" target="_blank">Democracy and Markets in a Partially Globalized World: Local and Global Financial Market Responses to Elections in Developing Countries</a>__. _International Studies Quarterly_. Forthcoming.<br>
+[ <a href="https://doi.org/10.1093/isq/sqae017" target="_blank">Preprint PDF</a> \| <a href="https://doi.org/10.31235/osf.io/upevz" target="_blank">Preprint PDF</a> \| <a href="https://osf.io/dzjqe" target="_blank">Data and Code</a> \| <a href="https://osf.io/yhe7v" target="_blank">Supplementary Information</a> ]
 
 __<a href="https://doi.org/10.1007/s11558-021-09446-w" target="_blank">Global Banking and the Spillovers from Political Shocks at the Core of the World Economy</a>__ (with Andreas Kern). 2022. _Review of International Organizations_ 17(4): 717–749.<br>
 [ <a href="https://doi.org/10.1007/s11558-021-09446-w" target="_blank">Publisher</a> \| <a href="../pdf/Cunha_Kern_2022_RIO.pdf" target="_blank">PDF</a> \| <a href="https://doi.org/10.31235/osf.io/xr3un" target="_blank">Preprint PDF</a> \| <a href="https://osf.io/xnuf3/" target="_blank">Data and Code</a> \| <a href="https://osf.io/835fw/" target="_blank">Supplementary Information</a> ]
