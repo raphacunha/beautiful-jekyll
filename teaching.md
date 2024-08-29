@@ -6,8 +6,8 @@ cover-img: "/images/wall_st_lund_crop_noir_tonal_tonal.jpg"
 
 #### King's College London
 
-6SSPP406: Political Economy of Global Finance (undergraduate)
-6SSPP389: Corporate Lobbying in the Global Economy (undergraduate)
+6SSPP406: Political Economy of Global Finance (undergraduate) <br>
+6SSPP389: Corporate Lobbying in the Global Economy (undergraduate) <br>
 7SSPP056: Business and Politics (MA)
 
 #### Florida State University
